@@ -1,0 +1,129 @@
+
+/* Class = "NSMenuItem"; title = "KartenMatch"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "KartenMatch";
+
+/* Class = "NSButtonCell"; title = "kreisförmig"; ObjectID = "37U-Nd-SIB"; */
+"37U-Nd-SIB.title" = "kreisförmig";
+
+/* Class = "NSButtonCell"; title = "6 Symbole pro Karte, 31 Karten"; ObjectID = "3Lg-AG-7XY"; */
+"3Lg-AG-7XY.title" = "6 Symbole pro Karte, 31 Karten";
+
+/* Class = "NSMenuItem"; title = "Quit KartenMatch"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "KartenMatch Beenden";
+
+/* Class = "NSMenuItem"; title = "About KartenMatch"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Über KartenMatch";
+
+/* Class = "NSButtonCell"; title = "4 Symbole pro Karte, 13 Karten"; ObjectID = "8HR-WA-6d7"; */
+"8HR-WA-6d7.title" = "4 Symbole pro Karte, 13 Karten";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Einstellungen…";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "CXl-TE-DUH"; */
+"CXl-TE-DUH.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "Czh-1E-EkC"; */
+"Czh-1E-EkC.title" = "Radio";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Hilfe";
+
+/* Class = "NSMenuItem"; title = "KartenMatch Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "KartenMatch Hilfe";
+
+/* Class = "NSButtonCell"; title = "8 Symbole pro Karte, 57 Karten"; ObjectID = "FdN-8s-6G9"; */
+"FdN-8s-6G9.title" = "8 Symbole pro Karte, 57 Karten";
+
+/* Class = "NSTextFieldCell"; title = "Kartenform"; ObjectID = "IuD-kF-nYu"; */
+"IuD-kF-nYu.title" = "Kartenform";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSWindow"; title = "KartenMatch"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "KartenMatch";
+
+/* Class = "NSButtonCell"; title = "gitterförmig"; ObjectID = "Rrj-iD-Sqe"; */
+"Rrj-iD-Sqe.title" = "gitterförmig";
+
+/* Class = "NSButtonCell"; title = "variabel"; ObjectID = "T5b-8A-YBg"; */
+"T5b-8A-YBg.title" = "variabel";
+
+/* Class = "NSButtonCell"; title = "aufrecht"; ObjectID = "WuL-uX-iWx"; */
+"WuL-uX-iWx.title" = "aufrecht";
+
+/* Class = "NSTextFieldCell"; title = "Vorschau"; ObjectID = "XAs-IJ-Fbd"; */
+"XAs-IJ-Fbd.title" = "Vorschau";
+
+/* Class = "NSButtonCell"; title = "konstant"; ObjectID = "Zh1-cI-8Zz"; */
+"Zh1-cI-8Zz.title" = "konstant";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "Drucken…";
+
+/* Class = "NSTextFieldCell"; title = "Anordnung"; ObjectID = "bEa-Ov-gDd"; */
+"bEa-Ov-gDd.title" = "Anordnung";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "Datei";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "Datei";
+
+/* Class = "NSTextFieldCell"; title = "Symbolgrösse"; ObjectID = "dS7-Wd-2Ng"; */
+"dS7-Wd-2Ng.title" = "Symbolgrösse";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "ecm-rI-AQK"; */
+"ecm-rI-AQK.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "3 Symbole pro Karte, 7 Karten"; ObjectID = "gDd-Hp-Xkd"; */
+"gDd-Hp-Xkd.title" = "3 Symbole pro Karte, 7 Karten";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "gIi-Lh-DNL"; */
+"gIi-Lh-DNL.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Spielgrösse"; ObjectID = "hyx-0d-IPN"; */
+"hyx-0d-IPN.title" = "Spielgrösse";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSButtonCell"; title = "Drucken"; ObjectID = "iac-w3-KtN"; */
+"iac-w3-KtN.title" = "Drucken";
+
+/* Class = "NSButtonCell"; title = "quadratisch"; ObjectID = "icj-G6-d34"; */
+"icj-G6-d34.title" = "quadratisch";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "jqv-Lg-cKm"; */
+"jqv-Lg-cKm.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "kreisförmig"; ObjectID = "nem-9d-SeC"; */
+"nem-9d-SeC.title" = "kreisförmig";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK"; */
+"qIS-W8-SiK.title" = "Seite einrichten…";
+
+/* Class = "NSTextFieldCell"; title = "Orientierung"; ObjectID = "s10-kR-6QP"; */
+"s10-kR-6QP.title" = "Orientierung";
+
+/* Class = "NSMenu"; title = "KartenMatch"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "KartenMatch";
+
+/* Class = "NSButtonCell"; title = "unregelmässig"; ObjectID = "uVs-FS-wMm"; */
+"uVs-FS-wMm.title" = "unregelmässig";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Hilfe";
+
+/* Class = "NSTextFieldCell"; title = "Symbole"; ObjectID = "xiT-Qq-8MK"; */
+"xiT-Qq-8MK.title" = "Symbole";
+
+/* Class = "NSButtonCell"; title = "variabel"; ObjectID = "xr3-zK-uvj"; */
+"xr3-zK-uvj.title" = "variabel";
+
+/* Class = "NSButtonCell"; title = "variabel"; ObjectID = "iyI-5P-tlr"; */
+"iyI-5P-tlr.title" = "gross";
